@@ -6,7 +6,7 @@ const Header = () => {
     return (
         
             <div className="header">
-            <Navbar bg="primary" expand="lg">
+            <Navbar bg="info" expand="lg">
         <Container>
             <Navbar.Brand href="/">TO DO List</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
